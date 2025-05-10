@@ -24,7 +24,7 @@ linear_string = "".join(composition)
 # Print the linear string
 print(linear_string)
 ```
-Example Output
+### Example Output
 
 AAATAATGACCCACGCATACATCAATGCCAAACACCCATACATCCCAGCCCACGCTCTCAGCATGCTCTACGTCACTCATTGCA
 
