@@ -1,0 +1,10 @@
+
+composition = [
+    "AAAT", "AATG", "ACCC", "ACGC", "ATAC", "ATCA", "ATGC",
+    "CAAA", "CACC", "CATA", "CATC", "CCAG", "CCCA", "CGCT",
+    "CTCA", "GCAT", "GCTC", "TACG", "TCAC", "TCAT", "TGCA"
+]
+
+linear_string = "".join(composition)
+
+print(linear_string)
