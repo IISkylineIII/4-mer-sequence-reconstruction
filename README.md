@@ -28,19 +28,16 @@ Example Output
 
 AAATAATGACCCACGCATACATCAATGCCAAACACCCATACATCCCAGCCCACGCTCTCAGCATGCTCTACGTCACTCATTGCA
 
-Requirements
+### Requirements
 Python 3.6 or higher
-
 No external libraries are required.
 
-Applications
+### Applications
 Bioinformatics sequence assembly
-
 K-mer based string reconstruction
-
 Genome assembly tasks
 
-License
+### License
 This project is released under the MIT License.
 
 
